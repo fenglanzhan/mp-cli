@@ -1,0 +1,14 @@
+{
+  "name": "mp-base",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "generate": "./create.js"
+  },
+  "devDependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^6.2.0",
+    "json-format": "^1.0.1"
+  }
+}

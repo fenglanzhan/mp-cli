@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<wxs src="./array.wxs"   module="array" />
+<view class="container">
+    <text class="user-motto" bind:tap="bindViewTap">{{motto}}</text>
+    <myComponent></myComponent>
+</view>

@@ -1,0 +1,2 @@
+<!--components/myComponent.wxml-->
+<text class="text">{{name}}</text>
